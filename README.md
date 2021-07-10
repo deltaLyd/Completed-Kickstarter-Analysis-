@@ -1,7 +1,6 @@
 # Kickstarter Analysis
 This file contains an analysis of various Kickstarter campaigns which I analyzed to provide my client, Louise, insight to, that she may best determine how to structure and launch her own Kickstarter campaign to secure financing for a theater production (play) she hopes to bring to market.
-# Kickstarter Data Analysis – Outcomes Based on Launch Date & Goal
-## Overview of Project
+## Overview of Project – Outcomes Based on Launch Date & Goal
 The purpose of this project is to provide intelligence to my client, Louise, regarding how different Kickstarter campaigns fared (successful, failed, canceled), in relation to/based upon their respective launch dates and funding goals.  The client deliverable includes the data-work of my analysis to produce information, as well as visuals that highlight trends and important nuances of the dataset, from which intelligence can be gleaned.
 ## Analysis & Challenges
 ### Analysis Part I
